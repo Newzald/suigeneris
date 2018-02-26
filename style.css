@@ -1,0 +1,29 @@
+/*
+Theme Name: Sui Generis
+Author: Ian McClellan
+Description: SUI generis made managable
+Version: 0.0.1
+Tags: bootstrap
+*/
+body {
+    font-family: 'Open Sans', sans-serif;
+    padding-top: 4rem;
+}
+
+.card-title {
+    font-weight: 800;
+}
+
+h1{
+    font-family: 'Quicksand', sans-serif;
+}
+
+.navbar {
+    background-color: white;
+}
+
+.navbar-brand {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 2rem;
+    font-weight: bold;
+}
